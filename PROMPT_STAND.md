@@ -2,7 +2,6 @@
 > **Projeto Acadêmico**: 1º Semestre de Ciência da Computação
 > **Disciplina**: Engenharia de Prompt e Aplicações em IA
 > **Uso**: Estritamente pedagógico e de apoio.
-> 
 ## 1. Capa
  * **Projeto**: T.I.A.O (Tecnologia de Interação para Atendimento e Organização)
  * **Tema**: Saúde Digital, Acolhimento e Robótica Educacional
